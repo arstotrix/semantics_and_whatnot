@@ -1,1 +1,1 @@
-# semantics_and_whatnot
+# пусть будет так (пока)
